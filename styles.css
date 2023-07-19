@@ -1,0 +1,33 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.header {
+    border: green solid 2px;
+}
+
+.content-1 {
+    border: red solid 2px;
+}
+
+.content-2 {
+    border: blue solid 2px;
+}
+
+.quote {
+    border: purple solid 2px;
+}
+
+.call-to-action {
+    border: orange solid 2px;
+}
+
+.footer {
+    border: pink solid 2px;
+}
